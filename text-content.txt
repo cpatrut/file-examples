@@ -1,3 +1,0 @@
-Printing first line
-This is a secret message in line 3
-This is third line
